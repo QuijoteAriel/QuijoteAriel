@@ -1,10 +1,10 @@
-### Hola, soy Ariel Quijote 👋
+### Hola, soy QuijoteAriel 👋
 
 ---
 
 #### 🚀 Sobre mí
 
-Soy un estudiante de software con una pasión por crear soluciones eficientes y accesibles. Me estoy especializando en **Desarrollo Backend** , **análisis de datos** y **Python** . Siempre estoy aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+Soy un estudiante de software con una pasión por crear soluciones eficientes y accesibles. apciondo de Linux desde hace unos años y el software libre. Me estoy especializando en **Desarrollo Backend** , **Análisis de datos** y **Python** . Siempre estoy aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 
 ---
 
